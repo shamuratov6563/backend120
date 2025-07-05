@@ -1,19 +1,11 @@
-print("Hello World")
-
-a = 5
-b = 4
-c = a + b
-print(c)
 
 
-# git add 
-# git commit -m "message"
-# git push
+a = 30
 
-d = 10
+b = 50
 
-c = 40
-s = 30
+c = a + b 
 
-w = s ** c
+d = a **2 - b ** 2
 
+print(c, d)
