@@ -1,13 +1,9 @@
 print("Hello World")
 
-a = 5
-b = 4
-c = a + b
-print(c)
 
 e = 3
 
-d = a - b
+
 
 
 # git add 
@@ -16,9 +12,5 @@ d = a - b
 
 d = 10
 
-if a > 4:
-    print('nimadir')
-else:
-    print(None)
 
     
